@@ -4,13 +4,25 @@
 
 <html>
 <head runat="server">
-    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" />St. Michael the Archangel Academy</title>
+    <link href="../Styles/MainStyle.css" rel="stylesheet" />
 </head>
 <body>
-    <div>
-        <asp:ContentPlaceHolder ID="MainContent" runat="server">
-        
-        </asp:ContentPlaceHolder>
-    </div>
+    <table>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+    
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+    </table>
 </body>
 </html>
