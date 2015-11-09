@@ -10,18 +10,28 @@
 <body>
     <table>
         <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>
+                <div class="banner">
+                    <img src="../Images/SMAAbanner.jpg" class="bannerImage" runat="server"/>
+                </div>
+
+                <div class="navigation">
+
+                </div>
+            </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td>
                 <asp:ContentPlaceHolder ID="MainContent" runat="server">
-    
                 </asp:ContentPlaceHolder>
             </td>
         </tr>
         <tr>
-            <td colspan="2"></td>
+            <td class="footer">
+                <p>St. Michael the Archangel Academy<br />
+                    All rights reserved. © 1892-2015
+                </p>
+            </td>
         </tr>
     </table>
 </body>

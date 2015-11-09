@@ -1,7 +1,45 @@
-﻿body {
+﻿body
+{
+    font-family: 'Copperplate Gothic';
+}
+
+p
+{
+    font-family: Arial;
 }
 
 table
 {
     width: 100%;
+}
+
+/* - header and footer designs - */
+
+.banner
+{
+    height: 219px;
+    background-color: red;
+}
+
+.bannerImage
+{
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    height: 219px;
+    align-items: center;
+}
+
+.footer
+{
+    text-align: center;
+    color: white;
+    background-color: #585858;
+    font-size: 12px;
+}
+
+/* - navigation controls - */
+
+.navigation
+{
+
 }
