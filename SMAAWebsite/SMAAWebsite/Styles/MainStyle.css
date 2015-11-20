@@ -18,12 +18,13 @@ table
 .banner
 {
     height: 219px;
+    width: auto;
     background-color: red;
 }
 
 .bannerImage
 {
-    width: 100%;
+    width: 99.4%;
     padding: 0px 10px 0px 10px;
     height: 219px;
     align-items: center;

@@ -6,13 +6,16 @@
 <head runat="server">
     <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" />St. Michael the Archangel Academy</title>
     <link href="../Styles/MainStyle.css" rel="stylesheet" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <table>
+    <table class="container-fluid">
         <tr>
             <td>
                 <div class="banner">
-                    <img src="../Images/SMAAbanner.jpg" class="bannerImage" runat="server"/>
+                   <%-- <img src="../Images/SMAAbanner.jpg" class="bannerImage" runat="server"/>--%>
                 </div>
 
                 <div class="navigation">

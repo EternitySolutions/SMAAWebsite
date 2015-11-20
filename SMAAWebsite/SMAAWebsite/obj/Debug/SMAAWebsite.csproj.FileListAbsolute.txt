@@ -19,3 +19,5 @@ C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\S
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\SMAAWebsite\obj\Debug\SMAAWebsite.csprojResolveAssemblyReference.cache
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\SMAAWebsite\obj\Debug\SMAAWebsite.dll
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\SMAAWebsite\obj\Debug\SMAAWebsite.pdb
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\SMAAWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\SMAAWebsite\bin\EntityFramework.SqlServer.xml
