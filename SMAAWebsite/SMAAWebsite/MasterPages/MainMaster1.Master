@@ -13,18 +13,23 @@
 <body>
     <table class="container-fluid">
         <tr>
-            <td>
-                <div class="banner">
-                   <%-- <img src="../Images/SMAAbanner.jpg" class="bannerImage" runat="server"/>--%>
+            <td class="banner">
+                <div>
+                   <img src="../Images/SMAAbanner.jpg" class="bannerImage" runat="server"/>
                 </div>
 
-                <div class="navigation">
-
+                <div>
+                    <ul class="navigation">
+                        <li class="navHorizontal"><a href="#">HOME</a></li>
+                        <li class="navHorizontal"><a href="#">HOME</a></li>
+                        <li class="navHorizontal"><a href="#">HOME</a></li>
+                        <li class="navHorizontal"><a href="#">HOME</a></li>
+                    </ul>
                 </div>
             </td>
         </tr>
         <tr>
-            <td>
+            <td class="content">
                 <asp:ContentPlaceHolder ID="MainContent" runat="server">
                 </asp:ContentPlaceHolder>
             </td>
@@ -32,7 +37,7 @@
         <tr>
             <td class="footer">
                 <p>St. Michael the Archangel Academy<br />
-                    All rights reserved. © 1892-2015
+                    © 1892-2015
                 </p>
             </td>
         </tr>
