@@ -1,5 +1,6 @@
 ﻿body {
     width: 100%;
+    height: 100%;
     font-family: 'Copperplate Gothic';
     margin: 0;
     background-image: url(/Images/smaa.jpg);
@@ -14,10 +15,6 @@ html
 
 .banner
 {
-    background-image: url("/Images/SMAA banner.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    height: 219px;
     width: 100%;
     position: relative;
     margin: 0;
@@ -85,13 +82,13 @@ ul
 a:link
 {
     color: white;
-    text-shadow: 1px 2px 1px red;
+    text-shadow: 1px 2px 1px black;
 }
 
 a:hover, a:active, a:visited
 {
     color: white;
-    text-shadow: 1px 2px 1px black;
+    text-shadow: 1px 2px 1px #E73F3F;
 }
 
 .navigationLink
@@ -110,10 +107,11 @@ a:hover, a:active, a:visited
 .navBG
 {
     /*background: linear-gradient(#D13030, #EB5151);*/
-    width: auto;
     background-image: url("/Images/SMAA nav.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
+    height: auto;
+    width: auto;
     margin: 0;
 }
 
