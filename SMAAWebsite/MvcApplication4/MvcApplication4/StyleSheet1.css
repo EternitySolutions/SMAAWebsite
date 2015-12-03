@@ -121,17 +121,17 @@ ul li li a
     color: white;
 }
 
-/*a:link
+a:link
 {
     color: white;
     text-shadow: 1px 2px 1px black;
-}*/
+}
 
-/*a:hover, a:active, a:visited
+a:hover, a:active, a:visited
 {
     color: white;
     text-shadow: 1px 2px 1px #E73F3F;
-}*/
+}
 
 /*.navigationLink
 {
