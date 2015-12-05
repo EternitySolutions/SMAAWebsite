@@ -28,7 +28,7 @@
             </div>
             <div>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="ViewPage1.aspx">Home</a></li>
                     <li><a href="#">About</a>
                         <ul>
                             <li><a href="#">History</a></li>

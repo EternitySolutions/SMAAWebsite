@@ -40,3 +40,24 @@ C:\Users\Tonryu\Documents\GitHub\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcAppl
 C:\Users\Tonryu\Documents\GitHub\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
 C:\Users\Tonryu\Documents\GitHub\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
 C:\Users\Tonryu\Documents\GitHub\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Helpers.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Providers.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Razor.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Helpers.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Mvc.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.Razor.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\SMAAWebsite\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
