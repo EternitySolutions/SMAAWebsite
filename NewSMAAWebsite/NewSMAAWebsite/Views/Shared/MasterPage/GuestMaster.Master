@@ -22,7 +22,7 @@
             <img src="../../../Images/SMAA banner.jpg" alt="SMAA" class="banner"/>
             <%--<span class="name">St. Michael the Archangel Academy</span>--%>
         </div>
-       
+        <div>
             <div>
                 <ul>
                     <li><a href="../../../Home/Views/Home.aspx">Home</a></li>
@@ -36,8 +36,8 @@
                     </li>
                     <li><a href="#">Admissions</a>
                         <ul>
-                            <li><a href="#">Enrollment Procedures</a></li>
-                            <li><a href="#">Application Form</a></li>
+                            <li><a href="../../../Admissions/Views/Enrollment-Procedures.aspx">Enrollment Procedures</a></li>
+                            <li><a href="../../../Admissions/Views/Application-Form.aspx">Application Form</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Gallery</a>
@@ -49,10 +49,9 @@
                 </ul>
             </div>
         </div>
-     <div >
-            <div>
-                <a href="#"><img src="../../../Images/SMAA logo.png" width="90" height="90" class="image" alt="SMAA logo" /></a>
-            </div>
+        <div>
+            <a href="../../../Home/Views/Home.aspx"><img src="../../../Images/SMAA logo.png" width="90" height="90" class="image" alt="SMAA logo" /></a>
+        </div>
     </div>
     
     <div id="content_area">
