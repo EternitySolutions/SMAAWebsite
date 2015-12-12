@@ -4,7 +4,7 @@
     height: 100%;
     font-family: 'Copperplate Gothic';
     margin: 0;
-    background-image: url("../../../Images/smaa.jpg");
+   
 }
 
 h1, h2, h3, h4, h5, h6
@@ -58,8 +58,8 @@ ul
 ul li
 {
     float:left;
-    width:200px;
-    height:30px;
+    width:230px;
+    height:auto;
     line-height:30px;
     background: linear-gradient(#D13030, #EB5151);
 }
@@ -81,8 +81,6 @@ ul li li:hover
 {
    background:#f7543d;
    color:#fff;
-   
-
 }
 
 ul li li a 
@@ -148,7 +146,7 @@ a:hover, a:active, a:visited
 
 .image
 {
-    float: left;
+    
     margin: 5px 5px 10px 10px;
     border-radius: 65px 65px;
     box-shadow: 0px 0px 10px white;
@@ -183,4 +181,40 @@ a:hover, a:active, a:visited
 .containers
 {
 
+}
+
+#content_area
+{
+    width: auto;
+    margin: 20px 0 20px 0;
+    padding: 10px;
+    background-color:white;
+}
+
+.tdDesign
+{
+    width: 20%;
+    vertical-align: top;
+}
+
+.tableDesign
+{
+    width: 100%;
+}
+
+.imageBtn
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper
+{
+    width: 1080px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid #dedede;
+    
 }

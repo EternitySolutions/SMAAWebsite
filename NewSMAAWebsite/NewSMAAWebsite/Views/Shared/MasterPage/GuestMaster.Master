@@ -10,7 +10,7 @@
     <script type="text/javascript">
         $(document).ready(function () {
             $('li').hover(function () {
-                $(this).find('ul>li').stop().fadeToggle(300);
+                $(this).find('ul>li').stop().slideToggle(150);
             });
         });
     </script>
@@ -22,10 +22,7 @@
             <img src="../../../Images/SMAA banner.jpg" alt="SMAA" class="banner"/>
             <%--<span class="name">St. Michael the Archangel Academy</span>--%>
         </div>
-        <div >
-            <div>
-                <a href="#"><img src="../../../Images/SMAA logo.png" width="90" height="90" class="image" alt="SMAA logo" /></a>
-            </div>
+       
             <div>
                 <ul>
                     <li><a href="../../../Home/Views/Home.aspx">Home</a></li>
@@ -52,12 +49,17 @@
                 </ul>
             </div>
         </div>
+     <div >
+            <div>
+                <a href="#"><img src="../../../Images/SMAA logo.png" width="90" height="90" class="image" alt="SMAA logo" /></a>
+            </div>
     </div>
     
-    <div class="content">
+    <div id="content_area">
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
                 
         </asp:ContentPlaceHolder>
+            
     </div>
 
     <div class="footer"><p>Saint Michael the Archangel Academy<br />1898-2015</p></div>
