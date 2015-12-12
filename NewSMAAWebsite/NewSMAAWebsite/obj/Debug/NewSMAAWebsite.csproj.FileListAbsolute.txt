@@ -16,6 +16,6 @@ C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsit
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\bin\System.Web.WebPages.xml
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\bin\System.Web.WebPages.Deployment.xml
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\obj\Debug\NewSMAAWebsite.csprojResolveAssemblyReference.cache
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\obj\Debug\NewSMAAWebsite.dll
 C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\obj\Debug\NewSMAAWebsite.pdb
-C:\Users\dominic\Documents\Visual Studio 2012\Projects\SMAAWebsite\NewSMAAWebsite\NewSMAAWebsite\obj\Debug\NewSMAAWebsite.csprojResolveAssemblyReference.cache
