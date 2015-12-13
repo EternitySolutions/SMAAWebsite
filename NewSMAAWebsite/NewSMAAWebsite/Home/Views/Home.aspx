@@ -17,8 +17,8 @@
                 <div>
                     <h2>Enrollment Procedures</h2>
                     <p>Enrollment procedure here</p>
-                    <input type="image" src="../../../Images/req.png" alt="SMAA"  class="imageBtn" /><br />
-                    <input type="image" src="../../../Images/app.png" alt="SMAA"  class="imageBtn" />
+                    <a href="../../Admissions/Views/Enrollment-Procedures.aspx"><input type="image" src="../../../Images/req.png" alt="SMAA" class="imageBtn" /></a><br />
+                    <a href="../../Admissions/Views/Application-Form.aspx"><input type="image" src="../../../Images/app.png" alt="SMAA" class="imageBtn" /></a>
                 </div>
             </td>
         </tr>
