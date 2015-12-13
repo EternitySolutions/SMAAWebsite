@@ -17,8 +17,8 @@
                 <div>
                     <h2>Enrollment Procedures</h2>
                     <p>Enrollment procedure here</p>
-                    <input type="image" src="#" alt="Image" class="imageBtn" /><br />
-                    <input type="image" src="#" alt="Image" class="imageBtn" />
+                    <input type="image" src="../../../Images/req.png" alt="SMAA"  class="imageBtn" /><br />
+                    <input type="image" src="../../../Images/app.png" alt="SMAA"  class="imageBtn" />
                 </div>
             </td>
         </tr>

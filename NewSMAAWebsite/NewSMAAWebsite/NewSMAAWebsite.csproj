@@ -164,10 +164,14 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Images\app.png" />
+    <Content Include="Images\req.png" />
     <Content Include="Images\SMAA banner.jpg" />
     <Content Include="Images\SMAA logo.png" />
     <Content Include="Images\SMAA nav.jpg" />
     <Content Include="Images\smaa.jpg" />
+    <Content Include="Images\smaa_3.png" />
+    <Content Include="Images\smaa_3b.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />

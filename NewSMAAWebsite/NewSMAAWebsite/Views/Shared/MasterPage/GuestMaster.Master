@@ -19,7 +19,7 @@
 <body>
     <div>
         <div>
-            <img src="../../../Images/SMAA banner.jpg" alt="SMAA" class="banner"/>
+            <img src="../../../Images/smaa_3.png" alt="SMAA" class="banner"/>
             <%--<span class="name">St. Michael the Archangel Academy</span>--%>
         </div>
         <div>

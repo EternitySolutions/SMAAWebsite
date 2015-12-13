@@ -26,6 +26,7 @@ html
     width: 100%;
     position: relative;
     margin: 0;
+
 }
 
 .name
@@ -209,6 +210,7 @@ a:hover, a:active, a:visited
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 .wrapper
