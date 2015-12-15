@@ -7,52 +7,54 @@
     <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
     <link rel="stylesheet" type="text/css" href="../../../Styles/MainStyle.css" />
     <script type="text/javascript" src="../../../Scripts/jquery-1.9.1.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('li').hover(function () {
-                $(this).find('ul>li').stop().slideToggle(150);
-            });
-        });
-    </script>
+    <script src="../../../Scripts/script.js"></script>
 
 </head>
 <body>
     <div>
+        
         <div>
             <img src="../../../Images/smaa_3.png" alt="SMAA" class="banner"/>
             <%--<span class="name">St. Michael the Archangel Academy</span>--%>
         </div>
-        <div>
-            <div>
-                <ul>
-                    <li><a href="../../../Home/Views/Home.aspx">Home</a></li>
-                    <li><a href="#">About</a>
-                        <ul>
-                            <li><a href="../../../About/Views/History.aspx">History</a></li>
-                            <li><a href="../../../About/Views/Mission-Vision-and-Goals.aspx">Mission, Vision and Goals</a></li>
-                            <li><a href="../../../About/Views/Symbol.aspx">Symbol</a></li>
-                            <li><a href="../../../About/Views/Organizational-Chart.aspx">Organizational Chart</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Admissions</a>
-                        <ul>
-                            <li><a href="../../../Admissions/Views/Enrollment-Procedures.aspx">Enrollment Procedures</a></li>
-                            <li><a href="../../../Admissions/Views/Application-Form.aspx">Application Form</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Gallery</a>
-                        <ul>
-                            <li><a href="#">Facilities</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </div>
+    
+         
+        
+        <div id='cssmenu'>
+            <ul>
+               <li><a href='#'>Home</a></li>
+               <li class='has-sub'><a href='#'>About</a>
+                  <ul>
+                     <li ><a href='#'>History</a>
+                     </li>
+                     <li ><a href='#'>Mission, Vission and Goals</a>
+                     </li>
+		              <li ><a href='#'>Symbol</a>
+                     </li>
+		             <li ><a href='#'>Organizational Chart</a>
+                     </li>
+                  </ul>
+               </li>
+               <li class='has-sub'><a href='#'>Admissions</a>
+		            <ul>
+		            <li><a href='#'>Enrollment Procedures</a></li>
+		            <li><a href='#'>Application Form</a></li>
+		            </ul>
+	            </li>
+	            <li class='has-sub'><a href="#">Gallery</a>
+                    <ul>
+                      <li><a href="#">Facilities</a></li>
+                    </ul>
+                </li>
+               <li><a href='#'>Contact</a></li>
+            </ul>
+
         </div>
+
         <div>
             <a href="../../../Home/Views/Home.aspx"><img src="../../../Images/SMAA logo.png" width="90" height="90" class="image" alt="SMAA logo" /></a>
         </div>
-    </div>
+ </div>
     
     <div id="content_area">
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
